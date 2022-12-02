@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AuthProvider
+build_property.ProjectDir = /usercode/SignalR/SignalR/AuthProvider/
